@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "run-android-radon",
+            "type": "radon-ide",
+            "request": "launch",
+            "appRoot": "./",
+            "env": {},
+            "ios": {},
+            "isExpo": true,
+            "android": {},
+            "usePrebuild": true,
+            "useNativeNetworkInspector": true
+        }
+    ]
+}
